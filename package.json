@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-sonwatt",
+  "name": "@homebridge-plugins/homebridge-sonwatt",
   "displayName": "SonWatt",
   "type": "module",
   "version": "1.0.0",
