@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "sonwatt",
   "pluginType": "platform",
   "singular": true,
   "strictValidation": false,
